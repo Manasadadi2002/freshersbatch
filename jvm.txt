@@ -1,7 +1,1 @@
-class sample
-{
-public static void main {string[]}
-{
-System.out.println("welcome to java")
-}
-}
+helloo world
